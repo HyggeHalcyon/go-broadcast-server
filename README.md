@@ -10,4 +10,4 @@ References:
 6. [TCP Read non-blocking issue](https://stackoverflow.com/questions/26999615/go-tcp-read-is-non-blocking)
 7. [confusing defer statements](https://stackoverflow.com/questions/52718143/is-golang-defer-statement-execute-before-or-after-return-statement)
 8. [struct pointer comparison](https://stackoverflow.com/questions/52421103/why-struct-arrays-comparing-has-different-result)
-9. [unbuffered channel with without any other goroutines](https://stackoverflow.com/questions/37406914/golang-cannot-send-on-channel)
+9. [unbuffered channel without other goroutines](https://stackoverflow.com/questions/37406914/golang-cannot-send-on-channel)
